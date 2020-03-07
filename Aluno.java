@@ -1,6 +1,6 @@
 public class Aluno{
-   private String nome;
    private int id;
+   private String nome;
    
    public Aluno(String nome, int id){
       this.id   = id;
